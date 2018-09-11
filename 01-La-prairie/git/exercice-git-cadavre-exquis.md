@@ -53,7 +53,6 @@ Réaliser un [Cadavre exquis](https://fr.wikipedia.org/wiki/Cadavre_exquis_(jeu)
 1. Aller sur la branche __"developpement"__
 1. Mettre à jour __"developpement"__ en faisant un merge avec la branche __"corrections"__
 
-
 ## Ressources
 
 - [Git Basics](https://rogerdudler.github.io/git-guide/index.fr.html)

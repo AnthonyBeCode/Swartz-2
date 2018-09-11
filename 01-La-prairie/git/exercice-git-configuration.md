@@ -2,7 +2,7 @@
 
 ## What are Git & Github ?
 
-Git is the most popular version control software. Any developer worth its salt must use a version control system. It allows to store, collaborate and track any changes made to your code as you build it. 
+Git is the most popular version control software. Any developer worth its salt must use a version control system. It allows to store, collaborate and track any changes made to your code as you build it.
 
 Start here [introduction made in BeCode](https://github.com/becodeorg/BeCode/wiki/Git-&-Github).
 
@@ -30,9 +30,11 @@ When you're prompted to "Enter a file in which to save the key," press `Enter`. 
 1. Enter a file in which to save the key (/home/user/*my-key-name*): [Press enter]
 1. Enter passphrase (empty for no passphrase): [Laisse vide]
 1. Enter same passphrase again: [Laisse vide]
+<!--
 1. cat ~/*my-key-name*/*my-key-name*.pub
 1. copier la clé ssh ( commence par `ssh-rsa ......`)
-1. Suivre ce tuto à partir du point 2 : https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+-->
+Suivre ce tuto à partir du *point 2* : https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 
 ### Utiliser GitHub avec le terminal pour **Mac**
 
@@ -65,42 +67,8 @@ When you're prompted to "Enter a file in which to save the key," press `Enter`. 
 1. Enter a file in which to save the key (/Users/UserName/.ssh/id_rsa): [Press enter]
 1. Enter passphrase (empty for no passphrase): [Type a passphrase]
 1. Enter same passphrase again: [Type passphrase again]
-1. cat ~/.ssh/id_rsa.pub
-1. copier la clé ssh ( commence par ssh-rsa ......)
+/* 1. cat ~/.ssh/id_rsa.pub 1. copier la clé ssh ( commence par ssh-rsa ......) */
 1. Suivre ce tuto à partir du point 2 : https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
-
-
-### Documentation et apprentissage 
-* [Git - petit guide](http://rogerdudler.github.io/git-guide/index.fr.html)
-* [Codeschool - git ](https://www.codeschool.com/learn/git)
-* [Codecademy - git (limité) ](https://www.codecademy.com/courses/learn-git/lessons/git-workflow/exercises/hello-git)
-* [Learn git branching](http://learngitbranching.js.org)
-* [15min to Learn Git](https://try.github.io) :fr: :uk:
-* [**Git Pro Book](http://git-scm.com/book/en/v2) :fr: :uk:**
-* [Aide-Mémoire Git](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) :uk:
-* `pdf` [Using Git in Team](01-GIT/documentation/git_2.pdf) :gb:
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) :uk:
-* [Git-tips](https://github.com/git-tips/tips)
-* [Bitbucket Complete tutorial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) :uk:
-* Read and practise all of this tutorial: [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line/)
-* [markdown-cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-* [Become a git guru](https://fr.atlassian.com/git/tutorials)
-
-### Branch Conflict
-
-* If you have a _"This branch has conflicts that must be resolved"_ on the merge of a GitHub Pull-request, you can read that: [syncing-a-fork](https://help.github.com/articles/syncing-a-fork/) ! :uk:
-
-### Contribuer à un dépot sans être contributeur
-
-[create-pull-request](https://services.github.com/on-demand/intro-to-github/create-pull-request)
-
-
-
-
-
-
-
-
 
 
 
