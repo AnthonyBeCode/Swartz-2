@@ -12,8 +12,8 @@ Create an [Exquisite Corpse](https://en.wikipedia.org/wiki/Exquisite_corpse) wit
 ### Step 1: Initialization
 
 1. Create a GitHub repository named "Cadavre-exquis-__YourName__"
-1. Open "Cadavre-exquis-__YourName__" whit the command ````cd```
-1. Create a **README.md** file by using command ```nano```
+1. Open "Cadavre-exquis-__YourName__" whit the command `cd`
+1. Create a **README.md** file by using command `nano`
 1. In markdown, give a title to your story
 1. `clone` your deposit on your computer
 1. Create a `branch` _"developpement"_
