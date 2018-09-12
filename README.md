@@ -10,7 +10,8 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 
 ## The BeCode rules
 
-1. Read the [livret de l'apprenant (French only for now)](./Livret-apprenant(e)s.pdf).
+1. Read the [pedagogical contract (:fr: French only for now)](https://github.com/becodeorg/BeCode/blob/master/contratpedagogique.md)
+1. Read the [livret de l'apprenant (:fr: French only for now)](./Livret-accueil-junior.pdf).
 
 ### Your presence is required.
 - If you ever must set up an appointment, we strongly recommend you schedule it on **Tuesday morning** (be back at BeCode 13h25).
