@@ -12,7 +12,8 @@ Réaliser un [Cadavre exquis](https://fr.wikipedia.org/wiki/Cadavre_exquis_(jeu)
 
 ### Etape 1 : Initialisation
 1. Créer un dépôt sur GitHub nommé "Exercice-Cadavre-Exquis-__MonPrenom__"
-1. Créer un fichier *README.md* a l'aide de la commade ``` [nano](https://doc.ubuntu-fr.org/nano) ```
+1. Ouvrir "Exercice-Cadavre-Exquis-__MonPrenom__" avec la commande ```cd```
+1. Créer un fichier *README.md* a l'aide de la commade ```nano```
 1. En markdown, donner un titre à votre histoire
 1. `clone` de votre dépôt sur votre ordinateur
 1. Créer une branche __"developpement"__
@@ -58,6 +59,6 @@ Réaliser un [Cadavre exquis](https://fr.wikipedia.org/wiki/Cadavre_exquis_(jeu)
 
 - [Git Basics](https://rogerdudler.github.io/git-guide/index.fr.html)
 - [Git Cheat Sheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
-
+- [nano](https://doc.ubuntu-fr.org/nano)
 ![Git workflow](http://blog.launchdarkly.com/wp-content/uploads/2016/07/Slide2.jpg)
 
