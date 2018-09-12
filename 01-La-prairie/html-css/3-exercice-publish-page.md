@@ -1,13 +1,13 @@
-## Objectifs
+## Objectives
 
-- Publier un site grâce à GitHub page
+- Publish a site with github page
 
-## Instructions de cet exercice
+## Instructions of this exercise
 
-Dans le repository **markdown-warmup-html**
+In the repo **markdown-warmup-html**
 
-- Cliquer sur le tab `setting` de votre repository
-- Scroller jusqu'au titre `GitHub Pages`
-- Choisir la source `Master Branch`
-- Publier votre site
-- Dans le `readme.md` du repository ajoute l'**URL** qui mène à la version online du projet
+- Click on the tab `settings` of your repository
+- Scroll to the `GitHub Pages` title
+- Choose the `Master Branch` source
+- Publish your site
+- In the `readme.md` of the repository add the **URL** that redirects to the online project
