@@ -10,7 +10,8 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 
 ## The BeCode rules
 
-1. Read the [pedagogical contract (:fr: French only for now)](https://github.com/becodeorg/BeCode/blob/master/contratpedagogique.md)
+1. Read the [contrat pédagogique in :fr:](https://github.com/becodeorg/BeCode/blob/master/contratpedagogique.md) or
+1. Read the [pedagogical contract in :us:](https://github.com/becodeorg/BeCode/blob/master/educationalcontract.md)
 1. Read the [livret de l'apprenant (:fr: French only for now)](./Livret-accueil-junior.pdf).
 
 ### Your presence is required.
