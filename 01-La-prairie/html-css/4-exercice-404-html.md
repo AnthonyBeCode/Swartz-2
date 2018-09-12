@@ -1,19 +1,19 @@
-## Objectifs
+## Objectives
 
-- Améliorer la sémantique HTML
-- Connaître plus de propriété CSS
-- Améliorer ses compétences en positionement CSS
+- Improve the semantic HTML
+- Know more CSS properties
+- Improve your skill in CSS positioning
 
 ## Instructions
-- Créer un repository GitHub **404-Page**
-- Réaliser votre Page 404 en **HTML** et **CSS**
-- Voici quelques [inspirations](https://www.google.be/search?q=landing+page&espv=2&source=lnms&tbm=isch&sa=X&sqi=2&ved=0ahUKEwjmvai3v6zTAhVBCSwKHfOIAGMQ_AUIBigB&biw=1250&bih=703#tbm=isch&q=404+page)
-- Créer un bouton **"retour"** qui dirige vers votre profile GitHub
-- Mettre en ligne grâce à [GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
+- Create a repository in Github **404-Page**
+- Create your 404 page in **HTML** and **CSS**
+- Here's some [inspirations](https://www.google.be/search?q=landing+page&espv=2&source=lnms&tbm=isch&sa=X&sqi=2&ved=0ahUKEwjmvai3v6zTAhVBCSwKHfOIAGMQ_AUIBigB&biw=1250&bih=703#tbm=isch&q=404+page)
+- Create a button **back** that redirects to your GitHub profile
+- Deploy it online with [GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 
 ## Bonus
 
-- Ajouter une animation quand on passe la souris sur un élément
+- Add animation when we scroll over an element
 
 ## Ressources
 
