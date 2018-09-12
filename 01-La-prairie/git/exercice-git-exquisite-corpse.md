@@ -11,8 +11,9 @@ Create an [Exquisite Corpse](https://en.wikipedia.org/wiki/Exquisite_corpse) wit
 
 ### Step 1: Initialization
 
-1. Create a GitHub repository named "Cadavre-exquis-MonPrenom"
-1. Create a **README.md** file
+1. Create a GitHub repository named "Cadavre-exquis-__YourName__"
+1. Open "Cadavre-exquis-__YourName__" whit the command `cd`
+1. Create a **README.md** file by using command `nano`
 1. In markdown, give a title to your story
 1. `clone` your deposit on your computer
 1. Create a `branch` _"developpement"_
@@ -37,6 +38,7 @@ Create an [Exquisite Corpse](https://en.wikipedia.org/wiki/Exquisite_corpse) wit
 1. `Push` the branch **"add-your-name"**
 1. Make a `merge` of your branch **"add-your-name"** with **"developpement"**
 1. `Push` the **"developpement"** branch
+1. Remove the branch __"add-your-name"__
 1. Do this for all your other colleagues
 
 ### Step 3: Versioning
@@ -59,6 +61,6 @@ Create an [Exquisite Corpse](https://en.wikipedia.org/wiki/Exquisite_corpse) wit
 
 - [Git Basics](https://rogerdudler.github.io/git-guide/index.fr.html)
 - [Git Cheat Sheet](https://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf)
-
+- [nano](https://help.ubuntu.com/community/Nano?_ga=2.171475168.110155971.1536746343-1962823923.1536746343)
 ![Git workflow](http://blog.launchdarkly.com/wp-content/uploads/2016/07/Slide2.jpg)
 
