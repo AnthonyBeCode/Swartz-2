@@ -36,15 +36,17 @@ Apply the next practicle steps to the folder **"starting-web-development"**
 - In **index.html** write HTML code resulting to exactly this images ![Goal CSS](images/goal-html.png)
   - The link to Tim Berners-Lee's Wikipedia : https://fr.wikipedia.org/wiki/Tim_Berners-Lee
   - To have Icons use this :
-  ```html
+  
+```html
   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-  ```
+```
   - To browse Icons go to [FontAwesome](http://fontawesome.io/icons/)
 
 ### Step 3 : CSS
 
 - Make it so your page looks like this ![Goal CSS](images/goal-css.png)
 - To have a pretty font use this :
+
 ```html
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700">
 ```
