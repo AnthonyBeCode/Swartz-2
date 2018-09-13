@@ -1,73 +1,73 @@
 # Introduction
 
-## Compétences
+## Skills
 
-- Compréhension
-- Autonomie
-- Organisation
+- Understanding
+- Autonomy
+- Organization
 - Execution
-- Présentation
+- Presentation
 
-## Objectifs
+## Objectives
 
-- Réaliser une page sur Tim Berner Lee
-- Comprendre les principes du HTML et du CSS
-- Présenter votre page et votre code
+- Make a page on Tim Berner Lee
+- Understand the principles of HTML and CSS
+- Present your page and code
 
 ## Briefing
 
-### Étape 1 : Git
+### Step 1 : Git
 
-- Crée un dépôt sur GitHub nomé **starting-web-developpment"**
-- Cloner ce dépot sur votre ordinateur
+- Create a repo on GitHub called **starting-web-development**
+- Clone the repo on your local machine
 
-### Étape 2 : HTML
+### Step 2 : HTML
 
-Faire les actions suivantes dans le dossier **"starting-web-developpment"**
+Apply the next practicle steps to the folder **"starting-web-development"** 
 
-- Crée un fichier **index.html**
-- Crée un fichier **style.css**
-- Crée un dossier **images**
-- Télécharger cette image dans le dossier **images** : ![tim](http://internethalloffame.org/sites/default/files/inductees/Berners-Lee_Tim.jpg)
-- Télécharger cette image dans le dossier **images** : ![space odyssey](http://lewagon.github.io/html-css-challenges/shared/images/space-odyssey.jpg)
-- Télécharger cette image dans le dossier **images** : ![monsieur hulot](http://lewagon.github.io/html-css-challenges/shared/images/monsieur-hulot.jpg)
-- Télécharger cette image dans le dossier image : ![alien](http://lewagon.github.io/html-css-challenges/shared/images/alien.jpg)
+- Create a file **index.html**
+- Create a file **style.css**
+- Create a folder **images**
+- Download this image in the folder **images** : ![tim](http://internethalloffame.org/sites/default/files/inductees/Berners-Lee_Tim.jpg)
+- Download this image in the folder **images** : ![space odyssey](http://lewagon.github.io/html-css-challenges/shared/images/space-odyssey.jpg)
+- Download this image in the folder **images** : ![monsieur hulot](http://lewagon.github.io/html-css-challenges/shared/images/monsieur-hulot.jpg)
+- Download this image in the folder : ![alien](http://lewagon.github.io/html-css-challenges/shared/images/alien.jpg)
 
-- Dans **index.html** écrire du code HTML dont le résultat doit correspondre exactement à cette image ![Goal CSS](images/goal-html.png)
-  - Lien vers la page Wikipedia de Tim Berners-Lee : https://fr.wikipedia.org/wiki/Tim_Berners-Lee
-  - Pour avoir les icones utiliser ceci :
+- In **index.html** write HTML code resulting to exactly this images ![Goal CSS](images/goal-html.png)
+  - The link to Tim Berners-Lee's Wikipedia : https://fr.wikipedia.org/wiki/Tim_Berners-Lee
+  - To have Icons use this :
   ```html
   <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   ```
-  - Pour choisir les icones rendez-vous chez [FontAwesome](http://fontawesome.io/icons/)
+  - To browse Icons go to [FontAwesome](http://fontawesome.io/icons/)
 
-### Étape 3 : CSS
+### Step 3 : CSS
 
-- Faire de sorte que votre page ressemble à celle-ci ![Goal CSS](images/goal-css.png)
-- Pour avoir une jolie typographie utiliser ceci :
+- Make it so your page looks like this ![Goal CSS](images/goal-css.png)
+- To have a pretty font use this :
 ```html
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700">
 ```
-- Suivre le lien pour savoir comment utiliser [Google Font](https://fonts.google.com/?query=open&selection.family=Montserrat|Open+Sans)
-- Ajouter des `div` en HTML pour séparer les éléments en blocs
-- Dans **style.css**
-   - Redimentioner les `div`
-   - Centrer les `div`
-   - Mettre une couleur de fond sur les `div`
-   - Changer la couleur des textes
-   - Aligner les textes
+- Follow the link to know how to use [Google Font](https://fonts.google.com/?query=open&selection.family=Montserrat|Open+Sans)
+- Add several `div`s in HTML to seperate the elements as blocks 
+- In **style.css**
+  - Reposition the `div`s
+  - Center the `div`s
+  - Fill the background of the `div`s
+  - Changer the font color
+  - Align the text
 
-### Étape 4 : Sauver avec Git
+### Étape 4 : Save with Git
 
-- Faire un `add`
-- Faire un `commit`
-- Faire un `push`
-- Aller sur votre profile GitHub pour vérifier les changements
+- Make an `add`
+- Followed by `commit`
+- Then a `push`
+- Go on your GitHub profile to verify the changes
 
-### Étape 5 : Présentation
+### Étape 5 : Presentation
 
-- Présenter son code
-- Expliquer les difficultés rencontrées
+- Present your code
+- Explain your hurdles/difficulties
 
 
 
