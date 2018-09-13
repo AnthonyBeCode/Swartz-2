@@ -1,38 +1,38 @@
 ![Generiue de star wars](images/star-wars.jpg)
 
-## Objectifs
+## Objectives
 
-- Connaître plus de propriétés CSS
-- Améliorer ses compétences en positionnement CSS
-- Apprendre les bases de l'animation en CSS
+- Learn more CSS properties
+- Improve skill in CSS positioning
+- Learn the basics of CSS animation
 
 ## Instructions 
 
-En pair-coding (groupe de deux), réaliser l'introduction de Star Wars en HTML et CSS
-Voici une [vidéo d'exemple](https://www.youtube.com/watch?v=C587lNBQXAw)
-Dans un premier temps on va juste faire défiler le texte.
+In pair-programming format (groups of two), create the introduction of Star Wars in HTML and CSS
+Here's an [vidéo d'exemple](https://www.youtube.com/watch?v=C587lNBQXAw)
+We start by just animating the text.
 
-- Faire un nouveau projet sur GitHub nomé **"Star Wars Crawl"**
-- Créer un fichier `index.html`
-- Créer un fichier `style.css`
-- Utiliser un '[lorem ipsum](http://fr.lipsum.com/)' pour avoir du faux texte *([astuce](http://www.macdrifter.com/2012/09/lorem-ipsum-shortcut-in-sublime-text.html))*
-- Positioner le conteneur du texte au centre de la page
-- Faire incliner le conteneur en perspective *(astuce: rotation 3D)*
-- Le faire défiler vers l'infini et au delà *(astuce: animation, @keyframe, transform, translate3D)*
-- Personnaliser le texte pour raconter ton aventure chez BeCode ou, si tu préfères, mettre le texte du [cadavre exquis](exercice-cadavre-exquis.md)
-- Mettre en ligne grâce à [GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
+- Create a new project on GitHub called **"Star Wars Crawl"**
+- Create a `index.html` file
+- Create a `style.css` file
+- Make use of '[lorem ipsum](http://en.lipsum.com/)' to generate fake text *([hint](http://www.macdrifter.com/2012/09/lorem-ipsum-shortcut-in-sublime-text.html))*
+- Position the content to the center of the page
+- Incline the content to perspective *(hint: 3D rotation)*
+- Scroll it to infinity and beyond *(astuce: animation, @keyframe, transform, translate3D)*
+- Personalise the text to tell your adventure at BeCode or, if you prefer, add the text of [cadavre exquis](exercice-cadavre-exquis.md)
+- Deploy your website online with [GitHub Pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/)
 
-## Objectifs Bonus (aka À Devenir CSS Jedi tu chercheras)
+## Bonus Objectives (aka To Becomde CSS Jedi you find)
 
-- Ajouter un fond étoilé
-- Ajouter le texte bleu d'introduction **"A long time ago.."**
-- Ajouter le logo BeCode à la place de celui de Star Wars
-- Ajouter de la musique grâce au tag `<audio>`
+- Add a star to the background
+- Add the blue text of the introduction **"A long time ago.."** 
+- Add the BeCode Logo instead of the one of Star Wars
+- Add music thanks to the `<audio>` tag
 
 ## Ressources 
 
-- [Centrer un élément sur une page](https://www.w3schools.com/css/css_align.asp)
+- [Centre an element on the page](https://www.w3schools.com/css/css_align.asp)
 - [CSS3 Animations](https://www.w3schools.com/css/css3_animations.asp)
 - [CSS3 Transformations](https://www.w3schools.com/css/css3_3dtransforms.asp)
 - [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners)
-- [Musique](https://www.w3schools.com/tags/tag_audio.asp)
+- [Audio tag](https://www.w3schools.com/tags/tag_audio.asp)
