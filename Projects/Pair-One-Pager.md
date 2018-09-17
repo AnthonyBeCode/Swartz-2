@@ -1,4 +1,4 @@
-#one pager, form and small graphic charter
+# one pager, form and small graphic charter
 
 Name of the repo on GitHub: `recap-html-css`.
 
