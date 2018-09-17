@@ -34,3 +34,4 @@ Here is a chronological list of projects, in the order they were tackled by your
 ## Resources 
 - [Grafikart](https://www.youtube.com/user/grafikarttv)
 - [OpenClassroom](https://openclassrooms.com/dashboard)
+
