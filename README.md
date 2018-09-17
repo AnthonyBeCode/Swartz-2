@@ -1,4 +1,4 @@
-# startup Swartz
+# Startup Swartz-2
 
 This repo is your go-to place for all information on your activities at BeCode : briefings, tutorials, etc.
 Clone it on your computer and `git pull` regularly in order to fetch the latest updates made by your coaches.
@@ -10,15 +10,26 @@ Clone it on your computer and `git pull` regularly in order to fetch the latest 
 
 ## The BeCode rules
 
-1. Read the [livret de l'apprenant (French only for now)](./Livret-apprenant(e)s.pdf).
+1. Read the [contrat pédagogique in :fr:](https://github.com/becodeorg/BeCode/blob/master/contratpedagogique.md) or
+1. Read the [pedagogical contract in :us:](https://github.com/becodeorg/BeCode/blob/master/educationalcontract.md)
+1. Read the [livret de l'apprenant (:fr: French only for now)](./Livret-accueil-junior.pdf).
 
-### Your presence is required.
-- If you ever must set up an appointment, we strongly recommend you schedule it on **Tuesday mornign** (be back at BeCode 13h25).
-- If you have to be somewhere or if you are ill, **you must warn us at least a day in advance by an email** to {PROMO_COACH1_EMAIL}  AND {PROMO_COACH2_EMAIL} . We will add it to the startup agenda so that everyone knows you're not available for them at that moment.
+## [Respect of schedules: what about delays and absences?](https://github.com/becodeorg/BeCode/blob/master/educationalcontract.md#respect-of-schedules-what-about-delays-and-absences)
 
-### **Justifications are mandatory.** 
+In case of delay, absence ou early departure (whether it's planned or not at all), warn us using the interface my.becode.org. [Instruction manual](https://github.com/becodeorg/BeCode/blob/master/procedure-mybecode.md)
 
-Whenever you are not at BeCode whilst you are supposed to, you mustshow us a legal written justification : medical certificates when you are sick, on the day of your return.
+In that order :
+
+- you warn BeCode via [my.becode.org](https://my.becode.org/)
+- if you already have your legal written justificatio, send it directly,
+- if you know that you will have your proof later, warn when you encode your absence that you will have your justification and send it  via the interface as soon as you have it.
+- if you know that you will not have any justification, warn us that you will not have any.
+
+**Quick reminder**:
+
+- 2 unjustified delays (or early departure) will be counted as absence;
+- 2 absences will lead to an individual interview;
+- 6 unjustified absences will result in permanent exclusion;
 
 ## Teaching material
 

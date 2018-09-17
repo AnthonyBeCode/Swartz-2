@@ -1,11 +1,11 @@
 ## Objectifs
 
-- Explorer le language HTML
-- Comprendre le lien entre le markdown et le HTML
+- Explore the HTML language
+- Understand the link between markdown and HTML
 
 ## Instructions
 
-- Créer toi un projet GitHub "Learning Environment"
-- Crée un fichier `index.html`
-- Convertis le dernier markdown réalisé précédemment dans le fichier `index.html`
-- Publie sur ton dépôt le fichier HTML
+- Create a repository on Github **markdown-warmup-html**
+- Create an `index.html` file
+- Convert the markdown from the previous markdown exercise (https://github.com/becodeorg/Swartz-2/blob/master/01-La-prairie/markdown-warmup.md) into HTML in the `index.html` file
+- Push to HTML file to your repo

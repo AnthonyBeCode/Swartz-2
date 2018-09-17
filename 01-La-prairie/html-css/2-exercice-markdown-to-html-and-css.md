@@ -1,14 +1,16 @@
-## Objectifs
+## Objectives
 
-- Explorer le language HTML
-- Comprendre le lien entre le markdown et le HTML
+- Explore HTML 
+- Understand the link between markdown and HTML
 
 ## Instructions
 
-- Améliorer l'exercice "[De Markdown to HTML](1-exercice-markdown-to-html.md)" en y ajoutant un fichier "style.css" et en le colorisant à ta sauce
+In the repo **markdown-warmup-html** 
 
-## Outils colorimétric
+- Improve the exercise "[De Markdown to HTML](1-exercice-markdown-to-html.md)" by adding a `style.css` file and add to it some juice
 
-- Pour garder une cohérence colorimétrique sur ton projet "[adobe.color](https://color.adobe.com/fr/)"
+## Tools
+
+- Color palettes decide your website's theme "[adobe.color](https://color.adobe.com/fr/)"
 
 
