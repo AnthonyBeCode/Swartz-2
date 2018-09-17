@@ -2,7 +2,7 @@
 
 Name of the repo on GitHub: `recap-html-css`.
 
-In groups of 2 for the until the 21st of September
+In groups of 2 for the until the 25th of September
 Create a website for a shop or a fictional craftsman in HTML and CSS including 4 sections:
 - welcome**: information on the activity of the craftsman or shop
 - services** or **products**: image gallery AND/OR a table with services and prices
