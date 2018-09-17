@@ -42,4 +42,18 @@ Before sending your work to GitHub, write a file **README.md**** where you will 
 - [Pexels](https://www.pexels.com) : a nice site where you will find royalty-free images
 
 
-Translated with www.DeepL.com/Translator
+  - Kevin Lagey &  Mahmoud Abdo    
+  - Michel Dereameaker &  Mustapha Bouch    
+  - akbar nzeyimana &  Lionel Bidegaray    
+  - Damian Szacun &  Marco Carlo Giovanni Tampieri    
+  - Michael Diakité &  Samy Aggad    
+  - thomas Nelis &  Locky Bounthieng    
+  - Stijn Vossen &  Alexandru Ionut Tulea    
+  - Thiago De Souza &  Dragan Markovic    
+  - Gabriela Thomas &  Jérémy Vantighem    
+  - Matthieu Brouillard &  Lily Danhaive    
+  - Diogo Martins &  François Héliodore    
+  - Aleksander Cornette &  Florentin Lefort    
+  - Faysal Jadron &  Nathan Gemis    
+  - Dop Daiga &  oussama rhoni    
+  - Silvia Boscutti &  soumaya Amri   
