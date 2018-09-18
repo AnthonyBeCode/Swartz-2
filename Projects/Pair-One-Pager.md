@@ -43,7 +43,7 @@ Before sending your work to GitHub, write a file **README.md**** where you will 
 
 
   - Kevin Lagey &  Mahmoud Abdo    
-  - Michel Dereameaker &  Mustapha Bouch    
+  - Michel Dereameaker & Nathan Gemis    
   - akbar nzeyimana &  Lionel Bidegaray    
   - Damian Szacun &  Marco Carlo Giovanni Tampieri    
   - Michael Diakité &  Samy Aggad    
@@ -54,6 +54,6 @@ Before sending your work to GitHub, write a file **README.md**** where you will 
   - Matthieu Brouillard &  Lily Danhaive    
   - Diogo Martins &  François Héliodore    
   - Aleksander Cornette &  Florentin Lefort    
-  - Faysal Jadron &  Nathan Gemis    
+  - Faysal Jadron & Mustapha Bouch     
   - Dop Daiga &  oussama rhoni    
   - Silvia Boscutti &  soumaya Amri   
